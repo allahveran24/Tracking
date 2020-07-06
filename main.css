@@ -13,8 +13,7 @@ body{
   overflow-x: hidden;
 }
 #content{
-  width: 144rem;
-  height: 72rem;
+  max-width: 144rem;
   margin: 0 auto;
   background-color: white;
   overflow: hidden;
